@@ -1,3 +1,7 @@
+import sys
+print(f"Python version: {sys.version}")
+
+
 import pickle
 import streamlit as st
 import requests
