@@ -1,3 +1,3 @@
 ﻿import streamlit as st
-st.title("✅ MOVIE APP WORKING")
-st.success("Deployed successfully!")
+st.title("🎬 Movie App Working!")
+st.success("✅ Deployment successful!")
